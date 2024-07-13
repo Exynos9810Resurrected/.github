@@ -41,4 +41,3 @@ You should be able to find everything you need for building here. If not, you ca
 
 <img src="https://github.com/Exynos9810Resurrected/.github/blob/main/profile/funnyskeleton.gif?raw=true" width=300px> <img src="https://github.com/Exynos9810Resurrected/.github/raw/main/profile/commandblock.webp" width=200px>
 <br /><br /><br />
-i dont have the nervs to finish this page rn, lol
