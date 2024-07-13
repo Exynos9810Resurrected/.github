@@ -7,7 +7,8 @@
 You should be able to find everything you need for building here. If not, you can go ask one of us in Telegram. I wont provide usernames here.
 
 Common Trees
-[https://github.com/Exynos9810Resurrected/device_samsung_exynos9810-common.git] (#device_samsung_exynos9810-common)
+[device_samsung_exynos9810-common](https://github.com/Exynos9810Resurrected/device_samsung_exynos9810-common.git)
+
 Vendor Tree
 Kernel
 
