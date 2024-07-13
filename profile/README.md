@@ -6,7 +6,7 @@
 
 You should be able to find everything you need for building here. If not, you can go ask one of us in Telegram. I wont provide usernames here.
 
-## Local Manifests ( Fetches the trees from below)
+## Local Manifests ( Fetches the trees from below )
 - [exynos9810](https://github.com/Exynos9810Resurrected/local_manifests/)
 ##
 
