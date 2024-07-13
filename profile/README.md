@@ -6,6 +6,9 @@
 
 You should be able to find everything you need for building here. If not, you can go ask one of us in Telegram. I wont provide usernames here.
 
+## Local Manifests ( Fetches the trees from below)
+- [exynos9810](https://github.com/Exynos9810Resurrected/local_manifests/)
+
 ### Common Trees
 
 - [device_samsung_exynos9810-common](https://github.com/Exynos9810Resurrected/device_samsung_exynos9810-common/)
@@ -25,6 +28,10 @@ You should be able to find everything you need for building here. If not, you ca
 
 ### Kernel
 - [kernel_samsung_exynos9810](https://github.com/Exynos9810Resurrected/kernel_samsung_exynos9810/)
+
+### SLSI
+- [device_samsung_slsi_sepolicy](https://github.com/Exynos9810Resurrected/device_samsung_slsi_sepolicy/)
+- [hardware_samsung_slsi](https://github.com/Exynos9810Resurrected/hardware_samsung_slsi/)
 
 <img src="https://github.com/Exynos9810Resurrected/.github/blob/main/profile/funnyskeleton.gif?raw=true" width=300px><br /><br /><br /><br /><br />
 
